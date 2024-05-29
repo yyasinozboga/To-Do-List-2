@@ -4,4 +4,4 @@
 
 <p>HTML, CSS and JS</p>
 
-<img src="giphy.gif">
+<img src="ezgif.com-video-to-gif-converter.gif">
